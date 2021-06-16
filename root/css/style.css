@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+body {
+    color: #005677;
+    margin: auto;
+    width: 900px;
+    padding-top: 25px;
+    border: solid;
+    border-color: #005677;
+}
+
+h1 {
+    background-color: #C4C4C4;
+}
+
+.centrar-listas ul {
+	text-align: left;
+	display: inline-block;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    text-align: left;
+}
+
+.centrar-info{
+    margin: auto;
+    width: 800px;
+}
+
+footer {
+    background-color: #005677;
+    text-align: center;
+    color: #ffffff;
+}
